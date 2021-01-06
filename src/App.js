@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import Counter from './Counter';
 import CounterHooks from './CounterHooks';
-import FetchIt from './FetchIt';
 
 export const ThemeContext = React.createContext()
 
